@@ -1,5 +1,5 @@
 {
-  "name": "express-azure-backup",
+  "name": "@fdot/express-azure-backup",
   "version": "1.0.0",
   "description": "An express middleware for kicking off an azure backup job.",
   "main": "index.js",
