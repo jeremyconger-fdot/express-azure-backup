@@ -1,0 +1,27 @@
+{
+  "name": "express-azure-backup",
+  "version": "1.0.0",
+  "description": "An express middleware for kicking off an azure backup job.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyconger-fdot/express-azure-backup.git"
+  },
+  "keywords": [
+    "express",
+    "azure",
+    "backup"
+  ],
+  "author": "jeremy.conger@dot.state.fl.us",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyconger-fdot/express-azure-backup/issues"
+  },
+  "homepage": "https://github.com/jeremyconger-fdot/express-azure-backup#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
